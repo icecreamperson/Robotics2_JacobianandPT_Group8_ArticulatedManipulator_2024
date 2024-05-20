@@ -16,3 +16,4 @@
 ![16](https://github.com/icecreamperson/Robotics2_JacobianandPT_Group8_ArticulatedManipulator_2024/assets/157493649/2b3378e3-eda5-4b9e-8952-c4066ce386d8)
 ![17](https://github.com/icecreamperson/Robotics2_JacobianandPT_Group8_ArticulatedManipulator_2024/assets/157493649/d7ac14cc-d1f5-4324-ac24-2986755f67b5)
 ![18](https://github.com/icecreamperson/Robotics2_JacobianandPT_Group8_ArticulatedManipulator_2024/assets/157493649/3522a97b-ecab-49ba-a1c4-80392d3f6bfe)
+![JACOBIAN MATRIX AND TRAJECTORY PLANNING_ROBOTICS 2 FINAL PROJECT](https://github.com/icecreamperson/Robotics2_JacobianandPT_Group8_ArticulatedManipulator_2024/assets/157493649/9e020c9e-1b86-4441-ab66-0826e9025288)
