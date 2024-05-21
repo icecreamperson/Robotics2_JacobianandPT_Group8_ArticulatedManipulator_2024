@@ -11,7 +11,7 @@ https://drive.google.com/file/d/136p0FQQEMhvFcT6H3m3JVeorJDbAsUvk/view?usp=drive
 **LINK FOR TASK 5:**
 https://drive.google.com/file/d/1RvCZi8VDp7HcbdiaaJg9v4KS0fdVEMjE/view?usp=drive_link
 
-![4](https://github.com/icecreampersonhttps://drive.google.com/file/d/1RvCZi8VDp7HcbdiaaJg9v4KS0fdVEMjE/view?usp=drive_link/Robotics2_JacobianandPT_Group8_ArticulatedManipulator_2024/assets/157493649/dcd13ec4-6399-4316-8838-8b2f03aff5b0)
+![4](https://github.com/icecreamperson/Robotics2_JacobianandPT_Group8_ArticulatedManipulator_2024/assets/157493649/7c4d7206-198e-45d2-94f2-3c6790923b80)
 ![5](https://github.com/icecreamperson/Robotics2_JacobianandPT_Group8_ArticulatedManipulator_2024/assets/157493649/d89fb2bc-0983-466e-91ce-d83258970132)
 ![6](https://github.com/icecreamperson/Robotics2_JacobianandPT_Group8_ArticulatedManipulator_2024/assets/157493649/a5d57806-a9a1-4003-a32d-e8477acd238a)
 ![7](https://github.com/icecreamperson/Robotics2_JacobianandPT_Group8_ArticulatedManipulator_2024/assets/157493649/2c6f0a96-a0ff-44a8-8361-d9d8de20af5b)
