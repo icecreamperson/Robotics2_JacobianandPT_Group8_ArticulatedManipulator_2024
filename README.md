@@ -2,6 +2,10 @@
 ![1](https://github.com/icecreamperson/Robotics2_JacobianandPT_Group8_ArticulatedManipulator_2024/assets/157493649/79f6cf39-1254-43da-9b8b-19182c8d54f2)
 ![2](https://github.com/icecreamperson/Robotics2_JacobianandPT_Group8_ArticulatedManipulator_2024/assets/157493649/82f6e5e7-b38c-42c5-bc37-990e5ade2633)
 ![3](https://github.com/icecreamperson/Robotics2_JacobianandPT_Group8_ArticulatedManipulator_2024/assets/157493649/93983368-8035-4e90-b6ab-bd541f46ab16)
+
+**LINK FOR TASK 1:**
+https://drive.google.com/file/d/131KqPXrkv2D0oQX0m2TL3AIkOpvIrm_u/view?usp=drive_link
+
 **LINK FOR TASK 2:**
 https://drive.google.com/file/d/1VBuQTJ9nbtTNi2ZxQbCpKRM8b81p4c8o/view?usp=drive_link
 
